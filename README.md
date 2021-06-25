@@ -1,6 +1,6 @@
 # WebKit-Swift
 
-```
+```swift
 import SwiftUI
 import WebKit
 
